@@ -1,3 +1,0 @@
-benzyna
-diesel
-benzyna + LPG
