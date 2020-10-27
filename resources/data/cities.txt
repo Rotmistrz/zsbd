@@ -1,0 +1,101 @@
+Milicz
+Nowogród Bobrzański
+Sława
+Zielona Góra
+Warszawa
+Wrocław
+Zamość
+Poznań
+Katowice
+Szczecin
+Gdańsk
+Opole
+Kędzierzyn-Koźle
+Oława
+Białowice
+Jeleniów
+Gdynia
+Będzin
+Lubin
+Polkowice
+Nowa Sól
+Lublin
+Bielsko-Biała
+Karpacz
+Szklarska Poręba
+Białystok
+Radom
+Nidzica
+Czorsztyn
+Grywałd
+Kraków
+Nowy Targ
+Krościenko nad Dunajcem
+Bełchatów
+Rzeszów
+Jastrzębie Zdrój
+Olsztyn
+Malbork
+Kołobrzeg
+Małomice
+Stany
+Lubięcin
+Wilanów
+Kielce
+Dąbrowa Górnicza
+Bydgoszcz
+Toruń
+Zawiercie
+Police
+Legionowo
+Legnica
+Kalisz
+Piła
+Lódź
+Ostrowiec
+Kąty Wrocławskie
+Świnoujście
+Bochnia
+Jarosław
+Chełm
+Bytom
+Bukowno
+Ciechanów
+Czestochowa
+Cedynia
+Gubin
+Gniew
+Głogów
+Kożuchów
+Bolesławiec
+Gorzów Wielkopolski
+Gniezno
+Gliwice
+Kamień Pomorski
+Kórnik
+Krosno Odrzańskie
+Jasień
+Liczbark Warmiński
+Lubsko
+Leszno
+Łańcut
+Łowicz
+Międzyzdroje
+Nysa
+Namysłów
+Nowe Miasteczko
+Piotrków Trybunalski
+Przemyśl
+Prochowice
+Racibórz
+Radzyń Podlaski
+Wikowyje
+Rawicz
+Sandomierz
+Stargard Gdański
+Sulęcin
+Szprotawa
+Tranobrzeg
+Chocim
+Żary
+Żagań

@@ -1,0 +1,6 @@
+sedan
+kombi
+hatchback
+coupe
+SUV
+liftback
